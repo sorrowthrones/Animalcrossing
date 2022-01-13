@@ -34,6 +34,10 @@ footer{background-color: lightblue;
 	color: white;
 padding: 50px;}
 
+p.caption{color: dimgrey; font-style: italic;}
+
+
+
 
 footer a: hover
 		{opacity: .5;
