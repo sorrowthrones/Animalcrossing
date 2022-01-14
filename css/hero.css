@@ -21,9 +21,9 @@ h2{color: white;
 font-family: 'Libre Baskerville', serif;}
 
 main{max-width: 1000px; 
-margin: 0 auto;
+margin: 0;
 text-align: center;
-padding: 0 20px 20px 0;}
+}
 
 a{color: hotpink;}
 
@@ -37,13 +37,12 @@ padding: 50px;}
 p.caption{color: dimgrey; font-style: italic;}
 
 .button {
-  font: bold 40px sans-serif;
+  font: bold 50px sans-serif;
   text-decoration: none;
   background-color: #white;
   color: #333333;
-  padding: 4px 8px 4px 8px;
+  padding: 10px 15px 10px 15px;
 }
-
 
 footer a: hover
 		{opacity: .5;
