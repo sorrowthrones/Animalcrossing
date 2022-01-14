@@ -1,0 +1,24 @@
+body{margin: 0;
+font-family: sans-serif;}
+
+header{background-color: lightblue;
+	text-align:  center;
+padding-top:50px;
+padding-bottom: 50px;}
+
+header h1{color: white; font-size: 50px;
+}
+
+h1{font-family: 'Luxurious Roman', cursive;}
+
+header img{border-radius: 100px;
+			border: 5px solid white;
+			width: 150px;}
+
+h2{color: white;
+font-family: 'Libre Baskerville', serif;}
+
+main{max-width: 1000px; 
+margin: 0 auto;
+text-align: center;
+padding: 0 20px 20px 0;}
