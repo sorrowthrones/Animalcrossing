@@ -20,11 +20,6 @@ main img {max-width: 100%; border: 50px lightblue; border-radius: 100px;}
 h2{color: white;
 font-family: 'Libre Baskerville', serif;}
 
-main{max-width: 1000px; 
-margin: 0;
-text-align: center;
-}
-
 a{color: hotpink;}
 
 ul, ol {align-content: center;}
@@ -48,4 +43,16 @@ footer a: hover
 		{opacity: .5;
 			background-color: transparent;}
 
+.site-nav-list{ padding: 0.5em;}
 
+.site-nav-list li {display: inline; margin-right:1em }
+
+.site-nav-list a{color:white; text-decoration: none}
+
+figure {margin:auto}
+
+.infobox{text-align: center; background-color: white ; padding: 1em; margin-bottom: 1em; }
+
+.infoboxen {background-color: lightblue}
+
+h3{color: lightblue}
